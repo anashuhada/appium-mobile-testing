@@ -1,0 +1,1 @@
+This project is part of my learning journey with Appium and Java, designed to strengthen my skills in mobile automation testing. It is a key step in my preparation to become a software tester, with a focus on testing mobile applications and gaining practical experience with various automation frameworks.
