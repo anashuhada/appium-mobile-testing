@@ -9,7 +9,7 @@ public class SwagLabsPagesWithPageFactory {
 
     AndroidDriver driver;
 
-    // constructor with driver - without PageFactory
+    // constructor with driver - with PageFactory
     SwagLabsPagesWithPageFactory(AndroidDriver driver) {
         this.driver = driver;
         PageFactory.initElements(driver, this); // mandatory
